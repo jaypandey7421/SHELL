@@ -1,4 +1,4 @@
-# Simple Shell in C
+# Basic Shell in C
 
 This is a simple shell implemented in the C. It supports basic operations such as creating files, deleting files, printing the working directory, and more. The shell is designed to be lightweight and easy to understand, making it a great project for learning about system programming and shell internals.
 
